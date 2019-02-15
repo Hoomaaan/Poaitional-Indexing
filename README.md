@@ -1,1 +1,1 @@
-# Poaitional-Indexing
+# Positional-Indexing
